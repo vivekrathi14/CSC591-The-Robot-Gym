@@ -1,2 +1,5 @@
 # CSC591-Project
-Code will be updated shortly
+
+notebooks directory contains basic OpenAI Gym and our pytorch based DDPG implementation jupyter notebooks. 
+
+python directory contains the tensorflow based used reference code.
