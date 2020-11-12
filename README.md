@@ -8,8 +8,8 @@ python directory contains the tensorflow based used [reference code](https://git
 ### Our Results
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/25856691/99007206-bf5ac200-2511-11eb-8f98-b0c3084dba11.png" width="300" height="400"/>
-  <img src="https://user-images.githubusercontent.com/25856691/99007213-c2ee4900-2511-11eb-8caa-5d574909cf73.png" width="300" height="400"/>
+  <img src="https://user-images.githubusercontent.com/25856691/99007206-bf5ac200-2511-11eb-8f98-b0c3084dba11.png" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/25856691/99007213-c2ee4900-2511-11eb-8caa-5d574909cf73.png" width="500" height="400"/>
 </p>
 
 
