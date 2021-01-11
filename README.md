@@ -1,4 +1,6 @@
-# CSC591-Project - Reinforcement Learning for Fetch Robot (DDPG & DDPG+HER)
+# CSC591-Project -  The Robot Gym Reinforcement Learning for Fetch Robot (DDPG & DDPG+HER)
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://user-images.githubusercontent.com/25856691/104143764-d2153a00-538e-11eb-8883-013aa4fbf3d5.mp4)
 
 <img width="463" alt="Screen Shot 2020-11-12 at 5 51 23 PM" src="https://user-images.githubusercontent.com/25856691/99006724-e82e8780-2510-11eb-9fa5-acb7be65ee9f.png">
 notebooks directory contains our basic OpenAI Gym and pytorch based DDPG implementation jupyter notebooks. 
