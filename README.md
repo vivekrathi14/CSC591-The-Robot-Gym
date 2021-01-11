@@ -21,15 +21,13 @@
   <img src="https://user-images.githubusercontent.com/25856691/99007213-c2ee4900-2511-11eb-8caa-5d574909cf73.png" width="500" height="400"/>
 </p>
 
-1. Here is the paper [Paper](https://github.com/car-thee-ca/Scale-Invariant-Feature-Transform/files/5796935/The_Robot_Gym.pdf) that was submitted in class 
 
 **Implementation & Usage** -
 1. notebooks directory contains our implementation of the DDPG & DDPG+HER code in PyTorch along with beginners notebook for OpenAI Gym.
 2. Install [OpenAI Gym](https://github.com/openai/gym), MuJoCo Simulator for the deployment.
 3. python directory contains reference baseline DDPG & DDPG+HER model in TensorFlow API.
+4. Here is the [paper](https://github.com/vivekrathi14/CSC591-The-Robot-Gym/files/5796974/The_Robot_Gym.pdf) that was submitted in class.
 
-
-[The_Robot_Gym.pdf](https://github.com/vivekrathi14/CSC591-The-Robot-Gym/files/5796974/The_Robot_Gym.pdf)
 
 
 
