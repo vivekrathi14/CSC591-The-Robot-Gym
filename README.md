@@ -20,6 +20,7 @@
   <img src="https://user-images.githubusercontent.com/25856691/99007206-bf5ac200-2511-11eb-8f98-b0c3084dba11.png" width="500" height="400"/>
   <img src="https://user-images.githubusercontent.com/25856691/99007213-c2ee4900-2511-11eb-8caa-5d574909cf73.png" width="500" height="400"/>
 </p>
+1. Here is the paper [Treport](https://github.com/car-thee-ca/Scale-Invariant-Feature-Transform/files/5796935/The_Robot_Gym.pdf) that was submitted in class 
 
 **Implementation & Usage** -
 1. notebooks directory contains our implementation of the DDPG & DDPG+HER code in PyTorch along with beginners notebook for OpenAI Gym.
