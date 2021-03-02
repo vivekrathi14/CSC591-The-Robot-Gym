@@ -1,6 +1,6 @@
 # CSC591 The Robot Gym
 
-**Subject** - ECE CSC591 Software for Robotics <br>
+**Subject** - CSC591 Software for Robotics <br>
 **Project Name** - Reinforcement Learning for Fetch Robot (DDPG & DDPG+HER) <br>
 **Project Grade** - A <br>
 **Keywords** - DDPG - Deep Determinant Policy Gradient, HER - Hindsight Expererience Replay
